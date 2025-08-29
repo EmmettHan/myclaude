@@ -1,7 +1,7 @@
- ccline/
- plugins/
- projects/
- settings.json
- shell-snapshots/
- statsig/
- todos/
+ccline/
+plugins/
+projects/
+settings.json
+shell-snapshots/
+statsig/
+todos/
